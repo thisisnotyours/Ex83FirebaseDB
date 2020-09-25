@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "271419708944",
+    "firebase_url": "https://ex82firedbsuhyun.firebaseio.com",
+    "project_id": "ex82firedbsuhyun",
+    "storage_bucket": "ex82firedbsuhyun.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271419708944:android:65dd304608b994a5ea1c95",
+        "android_client_info": {
+          "package_name": "com.suek.ex83firebasedb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271419708944-qtgocds20mv4aqu2s0dmkd5891q9f9k6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYUp2nF-X84Lb6znxAOfdUJ90Uom_8L-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271419708944-qtgocds20mv4aqu2s0dmkd5891q9f9k6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
